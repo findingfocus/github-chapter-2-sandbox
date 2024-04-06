@@ -1,1 +1,2 @@
-Go ahead and fork this repository before cloning to your local computer! 😊
+Go ahead and fork this repository before cloning to your local computer!
+I have now changed this branch with new text.
